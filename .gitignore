@@ -1,0 +1,8 @@
+.vscode
+.data
+<<<<<<< HEAD
+node_modules
+=======
+>>>>>>> 599fd28029953faa700ba4b85c5227a2062717c2
+package-lock.json
+yarn.lock
