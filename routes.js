@@ -14,7 +14,7 @@ const { userHandler } = require("./handlers/routeHandlers/userHandler");
 const routes = {
   sample: sampleHandler,
   user: userHandler,
-  // 1 : todays worked is token handler mal
+  // 1 : todays worked is token handler
   token: tokenHandler,
 };
 
